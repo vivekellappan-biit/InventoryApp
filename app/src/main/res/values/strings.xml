@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="lbl_username">Username</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_login">Login</string>
+    <string name="product_hint">Product Hint</string>
+    <string name="item_id">Item Id</string>
+    <string name="item_name">Item Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="total">Total</string>
+    <string name="add_item">Add Item</string>
+</resources>
